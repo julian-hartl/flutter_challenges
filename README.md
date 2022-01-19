@@ -7,4 +7,4 @@ This repository contains my solutions for [Flutter Challenges](https://rggt.gith
 
  ![Solution image](clock_challenge/result.png)
 
- Check out the source code [here](https://github.com/JuHar-dev/flutter_challenges/clock_challenge).
+ Check out the source code [here](https://github.com/JuHar-dev/flutter_challenges/tree/master/clock_challenge).
